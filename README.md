@@ -16,8 +16,8 @@ Hi, I'm a web developer based in Toronto!
 ![](https://shields.io/static/v1?label=Cloud&message=Gatsby%20Cloud&color=blueviolet&logo=gatsby&logoColor=white)
 
 ## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasunkar&count_private=true&title_color=fff&bg_color=30,8B5CF6,7C3AED&text_color=fff&border_color=6D28D9&show_icons=true&icon_color=5B21B6&hide_title=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunkar&title_color=fff&bg_color=30,8B5CF6,7C3AED&text_color=fff&border_color=6D28D9&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prasunkar&count_private=true&title_color=fff&bg_color=30,8B5CF6,7C3AED&text_color=fff&border_color=6D28D9&show_icons=true&icon_color=5B21B6&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunkar&title_color=fff&bg_color=30,8B5CF6,7C3AED&text_color=fff&border_color=6D28D9&layout=compact" />
 
 ## 💬 Socials
 [LinkedIn](https://linkedin.com/in/prasunkar) • [Twitter](https://twitter.com/PrasunKar_) • [Instagram](https://instagram.com/prasunkar_)
