@@ -1,5 +1,4 @@
 # 👑 Prasun Kar
-Hi, I'm a web developer based in Toronto!
 
 ## 🔧 Technologies
 ![](https://shields.io/static/v1?label=Editor&message=VS%20Code&color=blueviolet&logo=visualstudiocode&logoColor=white)
